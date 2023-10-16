@@ -1,0 +1,7 @@
+source_bucket: your-source-bucket
+target_buckets:
+  - target-bucket-1
+  - target-bucket-2
+aws_access_key_id: your-access-key-id
+aws_secret_access_key: your-secret-access-key
+
